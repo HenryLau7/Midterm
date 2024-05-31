@@ -9,7 +9,7 @@
 
 ### Train
 
-`python main.py`
+`python ./Bird/main.py`
 
 ![Traing procedure](./figs/cub_cls_train.png "Traing procedure")
 
@@ -26,7 +26,7 @@
 
 ### Inference
 
-`python infernce.py`
+`python ./Bird/infernce.py`
 
 
 
@@ -40,7 +40,7 @@
   
 ### Faster R-CNN
 
-`Faster_RCNN.ipynb`
+`./object_detection/Faster_RCNN.ipynb`
 
 #### Train
 
@@ -54,7 +54,7 @@
 
 ### YOLO-v3
 
-`Faster_RCNN.ipynb`
+`./object_detection/YOLO_V3.ipynb`
 
 #### Train
 
