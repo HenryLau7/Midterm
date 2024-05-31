@@ -29,7 +29,6 @@
 `python ./Bird/infernce.py`
 
 
-
 ## Object detection on VOC
 
 * Ensure the enviroment is complete for mmdetection.
